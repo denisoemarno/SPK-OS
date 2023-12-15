@@ -52,7 +52,7 @@
 		<div id="index-banner" class="parallax-container">
 			<div class="section no-pad-bot">
 				<div class="container">
-					<h1 class="header jarak center white-text" style="font-size: 40px">SISTEM PENDUKUNG KEPUTUSAN MENGGUNAKAN METODE Simple Additive Weighting</h1>
+					<h1 class="header jarak center white-text" style="font-size: 40px">SISTEM PENDUKUNG KEPUTUSAN MENGGUNAKAN METODE Simple Additive Weighting (S.A.W)</h1>
 					<div class="row center">
 						<h5 class="header jarak-button col s12 light" style="margin-bottom: 0px; font-size: 26px">PEMILIHAN OPERATING SISTEM</h5>
 					</div>
@@ -72,11 +72,11 @@
 		    	<div class="row">
 		    		<div class="col s6">
 			    		<center><h5 class="header" style="margin-left: 0px; margin-bottom: 0px; margin-top: 25px; color: #635c73">INFO SISTEM</h5></center><br>
-			    		<p style="text-align: justify; padding-right: 16px;">Sistem Pendukung Keputusan Pemilihan Sistem Operasi ini menggunakan metode TOPSIS yang dibangun menggunakan bahasa PHP. Sistem ini dibuat sebagai Ujian Akhir Semester Mata Kuliah Sistem Operasi Magister Ilmu Komputer Universitas Budi Luhur. </p>
+			    		<p style="text-align: justify; padding-right: 16px;">Sistem Pendukung Keputusan Pemilihan Sistem Operasi ini menggunakan metode TOPSISSimple Additive Weighting (S.A.W) yang dibangun menggunakan bahasa PHP. Sistem ini dibuat sebagai Ujian Akhir Semester Mata Kuliah Sistem Operasi Magister Ilmu Komputer Universitas Budi Luhur. </p>
 						</div>
 			    	<div class="col s6">
 			    		<center><h5 class="header" style="margin-left: 0px; margin-bottom: 0px; margin-top: 25px; color: #635c73">INFO METODE</h5></center><br>
-							<p style="text-align: justify; padding-left: 16px;">Metode yang digunakan adalah metode TOPSIS. Metode TOPSIS adalah salah satu metode penyelesaian pada sistem pendukung keputusan. Metode ini mengevaluasi beberapa alternatif terhadap sekumpulan atribuat atau kriteria, dimana setiap atribut saling tidak bergantung satu dengan yang lainnya.
+							<p style="text-align: justify; padding-left: 16px;">Metode yang digunakan adalah metode Simple Additive Weighting (S.A.W). Metode Simple Additive Weighting (S.A.W) adalah salah satu metode penyelesaian pada sistem pendukung keputusan. Metode ini mengevaluasi beberapa alternatif terhadap sekumpulan atribuat atau kriteria, dimana setiap atribut saling tidak bergantung satu dengan yang lainnya.
 							</p>
 							</div>
 		    	</div>

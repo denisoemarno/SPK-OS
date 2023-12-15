@@ -158,7 +158,7 @@
 	<div id="about" class="modal">
         <div class="modal-content">
           <h4>Tentang</h4>
-          <p>Sistem Pendukung Keputusan Pemilihan Operating Sistem ini menggunakan metode TOPSIS yang dibangun menggunakan bahasa PHP.
+          <p>Sistem Pendukung Keputusan Pemilihan Operating Sistem ini menggunakan metode Simple Additive Weighting (S.A.W) yang dibangun menggunakan bahasa PHP.
 				Sistem ini dibuat sebagai Ujian Akhir Semester Mata Kuliah Sistem Operasi Magister Ilmu Komputer Universitas Budi Luhur. <br>
 				<br>
 				NIM  : 2211601931<br>
